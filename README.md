@@ -35,6 +35,7 @@ Des travaux sur la langue française existe déjà, notamment :
 
 ## Recherche, code & developpement
 
+
 ### Recherches
 
 Les debuts de tests et d'appropriation de Keras se sont fait principalement à l'aide du code en exemple dans la documentation Keras.
@@ -46,19 +47,22 @@ J'ai pu aussi tester la [génération de texte par LSTM](https://keras.io/exampl
 #### Prérequis
 
 Avant de pouvoir utiliser certains fichiers, il faut disposer des librairies suivante :
-[ ! ] L'utilisation d'un venv est fortement conseillé
+[ ! ] *L'utilisation d'un venv est fortement conseillé*
 
 * Pip
+
 '''
 sudo apt install python3-pip
 '''
 
 * LXML
+
 '''
 pip3 install lxml
 '''
 
 * Scipy
+
 '''
 pip3 install numpy scipy matplotlib ipython jupyter pandas sympy nose
 '''
