@@ -34,8 +34,6 @@ Des travaux sur la langue française existe déjà, notamment :
     * [autre source](https://www.sketchengine.eu/frwac-french-corpus/)
 
 ## Recherche, code & developpement
-
-
 ### Recherches
 
 Les debuts de tests et d'appropriation de Keras se sont fait principalement à l'aide du code en exemple dans la documentation Keras.
@@ -51,9 +49,9 @@ Avant de pouvoir utiliser certains fichiers, il faut disposer des librairies sui
 
 * Pip
 
-'''
-sudo apt install python3-pip
-'''
+    '''
+    sudo apt install python3-pip
+    '''
 
 * LXML
 
