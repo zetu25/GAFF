@@ -34,7 +34,8 @@ Des travaux sur la langue française existe déjà, notamment :
     * [autre source](https://www.sketchengine.eu/frwac-french-corpus/)
 
 ## Recherche, code & developpement
-### Recherches
+
+### Recherches
 
 Les debuts de tests et d'appropriation de Keras se sont fait principalement à l'aide du code en exemple dans la documentation Keras.
 Plus précisement la partie qui concerne le [Seq2Ses d'entrainement Keras](https://keras.io/examples/lstm_seq2seq/) et le [Seq2Seq prédictif](https://keras.io/examples/lstm_seq2seq_restore/).
