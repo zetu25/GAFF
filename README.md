@@ -48,22 +48,20 @@ Avant de pouvoir utiliser certains fichiers, il faut disposer des librairies sui
 [ ! ] *L'utilisation d'un venv est fortement conseillé*
 
 * Pip
-
-    '''
-    sudo apt install python3-pip
-    '''
+```
+sudo apt install python3-pip
+```
 
 * LXML
-
-'''
+```
 pip3 install lxml
-'''
+```
 
 * Scipy
 
-'''
+```
 pip3 install numpy scipy matplotlib ipython jupyter pandas sympy nose
-'''
+```
 
 #### Enumération des fichiers utilitaires
 
