@@ -1,0 +1,20 @@
+{
+
+"ille": "iye"
+
+"ff": "ph"
+
+"ge": "je"
+"gé": "geai:geais:geait:geaient:gè:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"gè": "geai:geais:geait:geaient:gé:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"gê": "geai:geais:geait:geaient:gé:gè:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"geai": "geais:geait:geaient:gé:gè:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"geais": "geai:geait:geaient:gé:gè:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"geait": "geai:geais:geaient:gé:gè:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"geaient": "geai:geais:geait:gé:gè:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"ger": "geai:geais:geait:geaient:gé:gè:gê:get:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"get": "geai:geais:geait:geaient:gé:gè:gê:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"gez": "geai:geais:geait:geaient:gé:gè:gê:get:ger:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"gi": "ji"
+
+}

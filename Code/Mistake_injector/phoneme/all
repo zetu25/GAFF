@@ -1,0 +1,185 @@
+{
+
+"ain": "in",
+"an": "en",
+"am": "em",
+"ai": "é:è:ê",
+"aé": "ahé",
+"au": "eau:o",
+"ass": "ac",
+
+"ere": "aire",
+"ère": "aire",
+"ess": "aiss",
+"eau": "au:o",
+
+"i": "y",
+"ien": "yien:yen",
+"ie": "ye:i:y",
+"in": "ain:un",
+"ia": "ya",
+"iss": "ic",
+"ic": "iss",
+"eux": "eu:eut",
+"eu": "e:eux:eut",
+
+"o": "au:eau",
+"ô": "o:au:eau",
+"oi": "oa:oua",
+"oss": "oc",
+"oy": "oi",
+
+"uss": "uc",
+
+"yer": "yai:yé:yè",
+"yé": "yai:yer:yè",
+
+"ai": "ais:ait:aient:é:è:ê:et:ez:er:és:ès",
+"ais": "ai:ait:aient:é:è:ê:et:ez:er:és:ès",
+"ait": "ai:ais:aient:é:è:ê:et:ez:er:és:ès",
+"aient": "ai:ait:ais:é:è:ê:et:ez:er:és:ès",
+
+"er": "ai:ais:ait:aient:é:è:ê:et:ez:és:ès",
+"et": "ai:ais:ait:aient:é:è:ê:er:ez:és:ès",
+"ez": "ai:ais:ait:aient:é:è:ê:et:er:és:ès",
+"é": "ai:ais:ait:aient:è:ê:et:er:ez:és:ès",
+"è": "ai:ais:ait:aient:é:ê:et:er:ez:és:ès",
+"ê": "ai:ais:ait:aient:é:è:et:er:ez:és:ès",
+
+"ie": "i:it:is:y",
+
+" à ": "a:as:ha:ah",
+" a ": "à:as:ha:ah",
+" as ": "à:a:ha:ah",
+" ha ": "à:a:as:ah",
+" ah ": "à:a:as:ha",
+
+"an": "en",
+
+"bientôt": "bien tôt",
+
+"ce": "se",
+"se": "ce",
+
+"ces": "ses:c'est:s'est:sais:sait",
+"ses": "ces:c'est:s'est:sais:sait",
+"c'est": "ces:ses:s'est:sais:sait",
+"s'est": "ces:ses:c'est:sais:sait",
+"sais": "ces:ses:c'est:s'est:sait",
+"sait": "ces:ses:c'est:s'est:sais",
+
+"dans": "d'en:dent",
+"d'en": "dans:dent",
+"dent": "dans:d'en",
+
+"davantage": "d'avantage",
+"d'avantage": "davantage",
+
+"différant": "différend:différent",
+"différend": "différant:différent",
+"différent": "différant:différend",
+
+"don": "donc:dont",
+"donc": "don:dont",
+"dont": "don:donc",
+
+"la": "là:l'a:l'as:las",
+"là": "la:l'a:l'as:las",
+"l'a": "la:là:l'as:las",
+"l'as": "la:là:l'a:las",
+"las": "la:là:l'a:l'as",
+
+"mon": "m'ont:mont",
+"m'ont": "mon:mont",
+"mont": "mon:m'ont",
+
+"ni": "n'y:nie:nies:nient:nid",
+"n'y": "ni:nie:nies:nient:nid",
+"nie": "ni:n'y:nies:nient:nid",
+"nies": "ni:n'y:nie:nient:nid",
+"nient": "ni:n'y:nie:nies:nid",
+"nid": "ni:n'y:nie:nies:nient",
+
+"notre": "nôtre",
+"nôtre": "notre",
+
+"on": "ont",
+"ont": "on",
+
+"ou": "où:août:hou:houe:houx",
+"où": "ou:août:hou:houe:houx",
+"août": "ou:où:hou:houe:houx",
+"hou": "ou:où:août:houe:houx",
+"houe": "ou:où:août:hou:houx",
+"houx": "ou:où:août:hou:houe",
+
+"peut être": "peut-être",
+"peut-êtr": "peut être:e",
+
+"plutôt": "plus tôt",
+"plus tôt": "plutôt",
+
+"pris": "prit:prie:pries:prix",
+"prit": "pris:prie:pries:prix",
+"prie": "pris:prit:pries:prix",
+"pries": "pris:prit:prie:prix",
+"prix": "pris:prit:prie:pries",
+
+"quand": "qu'en:camp:khan",
+"qu'en": "quand:camp:khan",
+"camp": "quand:qu'en:khan",
+"khan": "quand:qu'en:camp",
+
+"sa": "ça:çà",
+"ça": "sa:çà",
+"çà": "sa:ça",
+
+"sans": "c'en:sens:sent:sang:cent",
+"c'en": "sans:sens:sent:sang:cent",
+"sens": "sans:c'en:sent:sang:cent",
+"sent": "sans:c'en:sens:sang:cent",
+"sang": "sans:c'en:sens:sent:cent",
+"cent": "sans:c'en:sens:sent:sang",
+
+"son": "sont",
+"sont": "son",
+
+"ton": "t'ont:thon:taon",
+"t'ont": "ton:thon:taon",
+"thon": "ton:t'ont:taon",
+"taon": "ton:t'ont:thon",
+
+"tout": "tous:toux",
+"tous": "tout:toux",
+"toux": "tout:tous",
+
+"votre": "vôtre",
+"vôtre": "votre",
+
+"té": "thé",
+"hé": "ai:é",
+
+"sus": "suce",
+
+"asse": "ace",
+"isse": "ice",
+"usse": "uce",
+
+"ille": "iye",
+
+"ff": "ph",
+
+"ge": "je",
+"gé": "geai:geais:geait:geaient:gè:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"gè": "geai:geais:geait:geaient:gé:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"gê": "geai:geais:geait:geaient:gé:gè:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"geai": "geais:geait:geaient:gé:gè:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"geais": "geai:geait:geaient:gé:gè:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"geait": "geai:geais:geaient:gé:gè:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"geaient": "geai:geais:geait:gé:gè:gê:get:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"ger": "geai:geais:geait:geaient:gé:gè:gê:get:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"get": "geai:geais:geait:geaient:gé:gè:gê:ger:gez:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"gez": "geai:geais:geait:geaient:gé:gè:gê:get:ger:gés:gès:jai:jais:jait:jaient:jé:jè:jê:jet:jer:jez:jés:jès",
+"gi": "ji"
+
+}

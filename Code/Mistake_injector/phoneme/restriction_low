@@ -1,0 +1,40 @@
+{
+
+"yai": "yer:yé:yè",
+"yer": "yai:yé:yè",
+"yé": "yai:yer:yè",
+
+"ai": "ais:ait:aient:é:è:ê:et:ez:er:és:ès",
+"ais": "ai:ait:aient:é:è:ê:et:ez:er:és:ès",
+"ait": "ai:ais:aient:é:è:ê:et:ez:er:és:ès",
+"aient": "ai:ait:ais:é:è:ê:et:ez:er:és:ès",
+
+"er": "ai:ais:ait:aient:é:è:ê:et:ez:és:ès",
+"et": "ai:ais:ait:aient:é:è:ê:er:ez:és:ès",
+"ez": "ai:ais:ait:aient:é:è:ê:et:er:és:ès",
+"é": "ai:ais:ait:aient:è:ê:et:er:ez:és:ès",
+"è": "ai:ais:ait:aient:é:ê:et:er:ez:és:ès",
+"ê": "ai:ais:ait:aient:é:è:et:er:ez:és:ès",
+
+"ie": "i:it:is:y",
+
+"don": "donc:dont",
+"donc": "don:dont",
+"dont": "don:donc",
+
+"la": "là:l'a:l'as:las",
+"là": "la:l'a:l'as:las",
+"l'a": "la:là:l'as:las",
+"l'as": "la:là:l'a:las",
+"las": "la:là:l'a:l'as",
+
+"mon": "m'ont:mont",
+"m'ont": "mon:mont",
+"mont": "mon:m'ont",
+
+"ont": "on",
+
+"son": "sont",
+"sont": "son"
+
+}

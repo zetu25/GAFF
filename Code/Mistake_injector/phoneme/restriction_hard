@@ -1,0 +1,25 @@
+{
+
+" a ": "à:as:ah",
+
+"ce": "se",
+"se": "ce",
+
+"dans": "d'en:dent",
+"d'en": "dans:dent",
+"dent": "dans:d'en",
+
+"ou": "où:août:hou:houe:houx",
+"où": "ou:août:hou:houe:houx",
+"août": "ou:où:hou:houe:houx",
+"hou": "ou:où:août:houe:houx",
+"houe": "ou:où:août:hou:houx",
+"houx": "ou:où:août:hou:houe",
+
+"pris": "prit:prie:pries:prix",
+"prit": "pris:prie:pries:prix",
+"prie": "pris:prit:pries:prix",
+"pries": "pris:prit:prie:prix",
+"prix": "pris:prit:prie:pries"
+
+}
