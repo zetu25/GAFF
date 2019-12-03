@@ -67,6 +67,10 @@ Après avoir utilisé différents corpus, différents fichiers de développement
 
 * **Mistake injector**. Permet de générer des phrases avec erreurs à partir d'un dataset de phrases propres
 
+  * Fichier d'entrée : fichier de lignes extraites auparavant du corpus WiCoPaCo ;
+
+  * Fichier de sortie : *results/CC-resultTest.txt*    (nom modifiable et généré automatiquement) ;
+
   * Utilisation du *.ipynb* :
 
     ```
