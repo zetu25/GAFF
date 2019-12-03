@@ -1,22 +1,7 @@
 # GAFF
 Générateur Automatique de Fotes de Français
 
-Ce projet est dans le cadre de la réalisation d'un générateur de "fotes" de français
-
-## Corpus
-
-Des travaux sur la langue française existe déjà, notamment :
-
-* [Wikipedia Correction and Paraphrase Corpus (WiCoPaCo)]()
-    * Corpus extrait de la totalité des sites [Wikimedia Foundation, Inc](https://wikimediafoundation.org/) (Wikipédia, Wikilivres, Wikinews, etc...)
-
-* [Corpus LARA](https://github.com/fauconnier/corpus-LARA)
-
-* [frWac](https://corpora.dipintra.it/public/run.cgi/corp_info?corpname=frwac_full)
-    * Le corpus frWaC est un corpus de textes français collectés dans le domaine *.fr* avec l'utilisation de mots de moyenne fréquence du corpus Le Monde Diplomatique et de listes de vocabulaire français de base comme la sémantique. Le corpus se compose de sites Web français d'une taille totale de 1,3 milliard de mots.
-    * [autre source](https://www.sketchengine.eu/frwac-french-corpus/)
-
-
+Ce projet est dans le cadre de la réalisation d'un générateur de "fotes" de français afin d’entraîner infine un réseau de neurones
 
 ## Recherche, code & développement
 
@@ -57,27 +42,22 @@ Pour lancer les .ipynb, exécuter dans un terminal :
 jupyter-lab
 ```
 
-### Énumération des fichiers utilitaires
+### GAFF
 
 Après avoir utilisé différents corpus, différents fichiers de développement ont été développés, notamment :
-
-* **XML strainer**. Permet d'extraire le contenu des balises "modif" dans le corpus v1 ou v2 de WiCoPaCo en un fichier .csv ou .txt. *Si extraction en .txt, alors utilisation possible du corpus_breaker.py à l'issue*
-
-* **Corpus breaker**. Permet de diviser un gros corpus en des "corpus" plus petits. Le corpus en entrée doit être extrait au préalable et doit respecter un format bien spécifique pour être segmenté en fichiers de n lignes souhaitées.
 
 * **Mistake injector**. Permet de générer des phrases avec erreurs à partir d'un dataset de phrases propres
 
   * Fichier d'entrée : fichier de lignes extraites auparavant du corpus WiCoPaCo ;
+* Fichier de sortie : *results/CC-resultTest.txt*    (nom modifiable et généré automatiquement) ;
 
-  * Fichier de sortie : *results/CC-resultTest.txt*    (nom modifiable et généré automatiquement) ;
+#### Outils
 
-  * Utilisation du *.ipynb* :
+- **XML strainer**. Permet d'extraire le contenu des balises "modif" dans le corpus v1 ou v2 de WiCoPaCo en un fichier .csv ou .txt. Si extraction en .txt, alors utilisation possible du corpus_breaker.py à l'issue
 
-    ```
-    jupyter-lab
-    ```
+- **Corpus breaker**. Permet de diviser un gros corpus en des "corpus" plus petits. Le corpus en entrée doit être extrait au préalable et doit respecter un format bien spécifique pour être segmenté en fichiers de n lignes souhaitées.
 
-### Avancement des types de fautes prisent en compte dans le générateur de fautes (Mistake injector)
+#### Avancement des types de fautes prisent en compte dans le générateur de fautes
 
 | **Type de fautes**       | **Non géré** | **En cours** | **En partie** | **Géré** |
 | :----------------------- | :----------: | :----------: | :-----------: | :------: |
@@ -96,11 +76,9 @@ Après avoir utilisé différents corpus, différents fichiers de développement
   - toutes les fautes sont trouvés hormis celle qui produise d'autre mots existant dans la langue française ;
   - Lorsqu'on demande la correction du mot par Grammalecte, celui-ci donnes en premier lieux les mots originaux.
 
-## Outils
+## Validation
 
-* [Grammalecte](https://grammalecte.net/)
-* [DCODE](https://www.dcode.fr/permutations-avec-repetition), permutations avec répétition
- * [Notice](https://rtemis.hypotheses.org/r-temis-pas-a-pas) d'utilisation pour traitement de corpus avec R
+* [Grammalecte](https://grammalecte.net/) : baseline afin de vérifier les fautes générés.
 
 ## Projets connexes & ressources
 
@@ -121,6 +99,19 @@ Plus sur ce qui est du Seq2Seq :
 Autre :
 
 * *Liste orthographique de base*
+
+### Corpus
+
+Des travaux sur la langue française existe déjà, notamment :
+
+* [Wikipedia Correction and Paraphrase Corpus (WiCoPaCo)]()
+  * Corpus extrait de la totalité des sites [Wikimedia Foundation, Inc](https://wikimediafoundation.org/) (Wikipédia, Wikilivres, Wikinews, etc...)
+
+* [Corpus LARA](https://github.com/fauconnier/corpus-LARA)
+
+* [frWac](https://corpora.dipintra.it/public/run.cgi/corp_info?corpname=frwac_full)
+  * Le corpus frWaC est un corpus de textes français collectés dans le domaine *.fr* avec l'utilisation de mots de moyenne fréquence du corpus Le Monde Diplomatique et de listes de vocabulaire français de base comme la sémantique. Le corpus se compose de sites Web français d'une taille totale de 1,3 milliard de mots.
+  * [autre source](https://www.sketchengine.eu/frwac-french-corpus/)
 
 ### Ressources pour tous les types de fautes :
 
