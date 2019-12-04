@@ -1,0 +1,37 @@
+{
+
+"ain": "in",
+"an": "en",
+"am": "em",
+"ai": "é:è:ê",
+"aé": "ahé",
+"au": "eau:o",
+"ass": "ac",
+
+"ere": "aire",
+"ère": "aire",
+"ess": "aiss",
+"eau": "au:o",
+
+"i": "y",
+"ien": "yien:yen",
+"ie": "ye:i:y",
+"in": "ain:un",
+"ia": "ya",
+"iss": "ic",
+"ic": "iss",
+"eux": "eu:eut",
+"eu": "e:eux:eut",
+
+"o": "au:eau",
+"ô": "o:au:eau"
+"oi": "oa:oua",
+"oss": "oc",
+"oy": "oi",
+
+"uss": "uc",
+
+"yer": "yai:yé:yè",
+"yé": "yai:yer:yè"
+
+}

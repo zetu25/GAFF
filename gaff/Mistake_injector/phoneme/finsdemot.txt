@@ -1,0 +1,17 @@
+{
+
+"ai": "ais:ait:aient:é:è:ê:et:ez:er:és:ès",
+"ais": "ai:ait:aient:é:è:ê:et:ez:er:és:ès",
+"ait": "ai:ais:aient:é:è:ê:et:ez:er:és:ès",
+"aient": "ai:ait:ais:é:è:ê:et:ez:er:és:ès",
+
+"er": "ai:ais:ait:aient:é:è:ê:et:ez:és:ès",
+"et": "ai:ais:ait:aient:é:è:ê:er:ez:és:ès",
+"ez": "ai:ais:ait:aient:é:è:ê:et:er:és:ès",
+"é": "ai:ais:ait:aient:è:ê:et:er:ez:és:ès",
+"è": "ai:ais:ait:aient:é:ê:et:er:ez:és:ès",
+"ê": "ai:ais:ait:aient:é:è:et:er:ez:és:ès",
+
+"ie": "i:it:is:y"
+
+}

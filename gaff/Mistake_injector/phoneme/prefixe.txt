@@ -1,0 +1,12 @@
+{
+
+"té": "thé",
+"hé": "ai:é",
+
+"sus": "suce",
+
+"asse": "ace",
+"isse": "ice",
+"usse": "uce"
+
+}
